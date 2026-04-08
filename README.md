@@ -1,2 +1,2 @@
 # USACH-CS
-Proyecs from my university in C++.
+Proyecs from my university.
