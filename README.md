@@ -1,4 +1,4 @@
-# USACH-CS# Ciencias de la Computación - USACH 🇨🇱
+# USACH-CS # Ciencias de la Computación - USACH 🇨🇱
 
 Este repositorio es mi bitácora académica en la **Universidad de Santiago de Chile**. Aquí documento mi evolución como desarrollador, desde los fundamentos de programación hasta sistemas complejos.
 
