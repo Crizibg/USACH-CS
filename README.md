@@ -15,4 +15,5 @@ Este repositorio es mi bitácora académica en la **Universidad de Santiago de C
 * `/Semestre-1`: Introducción a la ingeniería y Computación I.
 * `/Semestre-2`: Estructuras de Datos.
 ---
-*Enfocado en la eficiencia y el aprendizaje continuo.*
+*No hay enigmas. Si un problema puede plantearse, también puede resolverse.*
+Ludwig Wittgenstein
