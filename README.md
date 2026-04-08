@@ -6,7 +6,7 @@ Este repositorio es mi bitácora académica en la **Universidad de Santiago de C
 Soy estudiante de Ciencias de la Computación. En este repositorio voy a ir guardando todos los ejercicios y trabajos que haga en la universidad.
 
 ## Lo que estoy aprendiendo ahora:
-* Programación en **C++** (siguiendo el libro de Deitel).
+* Programación en **C++**..
 * Lógica de programación y **Diagramas de Flujo**.
 * Uso de la terminal en **Linux (WSL2)**.
 
